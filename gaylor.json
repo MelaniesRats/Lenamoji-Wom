@@ -121,14 +121,12 @@
             "is_sticker": false
         },
         {
-            //wom
             "name": ":teehee:"
             "url": "https://cdn.discordapp.com/emojis/1452531192116281344.webp?size=32",
             "is_sticker": false,
         },
         {
-            //wom
-            "name": ":teehee:"
+            "name": ":pls:"
             "url": "https://cdn.discordapp.com/emojis/1363930344251850952.webp?size=32",
             "is_sticker": false,
         }        

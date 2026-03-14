@@ -121,16 +121,6 @@
             "is_sticker": false
         },
         {
-            "name": ":teehee:",
-            "url": "https://cdn.discordapp.com/emojis/1452531192116281344.webp?size=32",
-            "is_sticker": false
-        },
-        {
-            "name": ":pls:",
-            "url": "https://cdn.discordapp.com/emojis/1363930344251850952.webp?size=32",
-            "is_sticker": false
-        }        
-        {
             "name": ":Upvote:",
             "url": "https://cdn.discordapp.com/emojis/851217024863436851.webp?size=4096",
             "is_sticker": false
@@ -1930,7 +1920,6 @@
             "is_sticker": true,
             "name": "Lisa Laughing"
         }
-      
     ],
     "name": "The Gaylor Convention Center",
     "codename": "gaylor",

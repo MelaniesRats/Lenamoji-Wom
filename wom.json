@@ -1,0 +1,33 @@
+{
+    "emoji": [
+        {
+            "name": ":pls~1:",
+            "url": "https://cdn.discordapp.com/emojis/1476311561529327729.webp?size=32",
+            "is_sticker": false
+        },
+        {
+            "name": ":pls~2:",
+            "url": "https://cdn.discordapp.com/emojis/1139692790087942244.webp?size=32",
+            "is_sticker": false
+        },
+        {
+            "name": ":shy~1:",
+            "url": "https://cdn.discordapp.com/emojis/1337767675983560714.gif?size=32",
+            "is_sticker": false
+        },
+        {
+            "name": ":shy~2:",
+            "url": "https://cdn.discordapp.com/emojis/1355527032745889943.webp?size=32",
+            "is_sticker": false
+        },
+        {
+            "name": ":teehee:",
+            "url": "https://cdn.discordapp.com/emojis/1452531192116281344.webp?size=32",
+            "is_sticker": false
+        }
+        
+    ],
+    "name": "Fucked Up Wom",
+    "codename": "wom",
+    "icon": "https://cdn.discordapp.com/emojis/1418298465515081849.webp"
+}

@@ -1,0 +1,482 @@
+{
+  "emoji": [
+    {
+      "name": ":vision:",
+      "url": "https://cdn.discordapp.com/emojis/1055174528659107890.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Maw:",
+      "url": "https://cdn.discordapp.com/emojis/1055174530496208906.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Aaaa:",
+      "url": "https://cdn.discordapp.com/emojis/1056985210740281524.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":smash:",
+      "url": "https://cdn.discordapp.com/emojis/1173657246345986169.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":box:",
+      "url": "https://cdn.discordapp.com/emojis/1270690118432198686.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":hugs:",
+      "url": "https://cdn.discordapp.com/emojis/1276209700421111849.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Shy:",
+      "url": "https://cdn.discordapp.com/emojis/1337767675983560714.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":tacklenom:",
+      "url": "https://cdn.discordapp.com/emojis/1342547802751766549.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":petLexi:",
+      "url": "https://cdn.discordapp.com/emojis/1390305293715636235.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lolibite:",
+      "url": "https://cdn.discordapp.com/emojis/1390986188734595166.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":petCarol:",
+      "url": "https://cdn.discordapp.com/emojis/1391316408100454521.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":youmesexnow:",
+      "url": "https://cdn.discordapp.com/emojis/1392856860465303702.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lick_neko:",
+      "url": "https://cdn.discordapp.com/emojis/1398341696718377140.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Yippee_Jumping:",
+      "url": "https://cdn.discordapp.com/emojis/1408791871743987792.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":yayyy:",
+      "url": "https://cdn.discordapp.com/emojis/1408791936407568425.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":BoredRoll:",
+      "url": "https://cdn.discordapp.com/emojis/1408922533209702510.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":catvibe:",
+      "url": "https://cdn.discordapp.com/emojis/1411479006632480768.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":shhh:",
+      "url": "https://cdn.discordapp.com/emojis/1413253927255932989.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":pleadcry:",
+      "url": "https://cdn.discordapp.com/emojis/1413489638953455627.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":nod:",
+      "url": "https://cdn.discordapp.com/emojis/1414617625975328800.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":meowblink:",
+      "url": "https://cdn.discordapp.com/emojis/1417530565925670965.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lmao:",
+      "url": "https://cdn.discordapp.com/emojis/1420811504403615844.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":stare_ani:",
+      "url": "https://cdn.discordapp.com/emojis/1429899479015886848.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":prey:",
+      "url": "https://cdn.discordapp.com/emojis/1440804575480381460.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":happy_love:",
+      "url": "https://cdn.discordapp.com/emojis/1441501259021684790.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":neko_Proud:",
+      "url": "https://cdn.discordapp.com/emojis/1444072113982931187.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":MenheraNoticeInterested:",
+      "url": "https://cdn.discordapp.com/emojis/1444072138381463684.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":confusedog:",
+      "url": "https://cdn.discordapp.com/emojis/1444072201962782831.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":MenheraConfused:",
+      "url": "https://cdn.discordapp.com/emojis/1444072230953811989.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Dizzy:",
+      "url": "https://cdn.discordapp.com/emojis/1444072261068783696.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":VV_ShyInnocentBlinking:",
+      "url": "https://cdn.discordapp.com/emojis/1444072283043008653.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":OwO1:",
+      "url": "https://cdn.discordapp.com/emojis/1444072302894383297.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":OwO2:",
+      "url": "https://cdn.discordapp.com/emojis/1444072323316711564.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":MenheraOMG2:",
+      "url": "https://cdn.discordapp.com/emojis/1444072357311287398.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":MenheraSleepDisturbed1:",
+      "url": "https://cdn.discordapp.com/emojis/1444072380283486248.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":awe_Cute:",
+      "url": "https://cdn.discordapp.com/emojis/1444072410298060961.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":neko_R_Lul:",
+      "url": "https://cdn.discordapp.com/emojis/1444072432054042746.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":neko_R_Yawn:",
+      "url": "https://cdn.discordapp.com/emojis/1444072460042506360.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":neko_R_nodders:",
+      "url": "https://cdn.discordapp.com/emojis/1444072486361895114.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":HanaInnocent:",
+      "url": "https://cdn.discordapp.com/emojis/1444072553529348157.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Sit:",
+      "url": "https://cdn.discordapp.com/emojis/1444072642314502265.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Sad:",
+      "url": "https://cdn.discordapp.com/emojis/1444072675176743084.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Wut:",
+      "url": "https://cdn.discordapp.com/emojis/1444072987069518025.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Aroused:",
+      "url": "https://cdn.discordapp.com/emojis/1444073020250656839.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Blush3:",
+      "url": "https://cdn.discordapp.com/emojis/1444073064232124591.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":cheers:",
+      "url": "https://cdn.discordapp.com/emojis/1444073144032821319.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":HeartEyes:",
+      "url": "https://cdn.discordapp.com/emojis/1444073276966961277.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":PhoneScared:",
+      "url": "https://cdn.discordapp.com/emojis/1444073326820720841.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":MenheraSmile:",
+      "url": "https://cdn.discordapp.com/emojis/1444073354230235349.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":bleh:",
+      "url": "https://cdn.discordapp.com/emojis/1444073409419149544.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":ShhQuiet:",
+      "url": "https://cdn.discordapp.com/emojis/1444073443426304212.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":hugg:",
+      "url": "https://cdn.discordapp.com/emojis/1444073472857866270.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":nosebleed:",
+      "url": "https://cdn.discordapp.com/emojis/1444073500766765146.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":thx:",
+      "url": "https://cdn.discordapp.com/emojis/1444073711136145588.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":VV_VIOLENTSQUISH:",
+      "url": "https://cdn.discordapp.com/emojis/1444073908193067150.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":violet_sip:",
+      "url": "https://cdn.discordapp.com/emojis/1444074573053034586.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Blush1:",
+      "url": "https://cdn.discordapp.com/emojis/1444076359839387709.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":Pout:",
+      "url": "https://cdn.discordapp.com/emojis/1444076478559031296.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":nerd:",
+      "url": "https://cdn.discordapp.com/emojis/1444086743535059096.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":BlahajHug:",
+      "url": "https://cdn.discordapp.com/emojis/1444088372330106951.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_pls:",
+      "url": "https://cdn.discordapp.com/emojis/1444304523534405672.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_pls3:",
+      "url": "https://cdn.discordapp.com/emojis/1444307559740604446.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":scared:",
+      "url": "https://cdn.discordapp.com/emojis/1444343714301481021.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":plsss:",
+      "url": "https://cdn.discordapp.com/emojis/1444426408922452058.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_derp_drool:",
+      "url": "https://cdn.discordapp.com/emojis/1444748627049320731.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":dicks:",
+      "url": "https://cdn.discordapp.com/emojis/1445359832927305770.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":kisses:",
+      "url": "https://cdn.discordapp.com/emojis/1445361531805106247.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":pout_meru:",
+      "url": "https://cdn.discordapp.com/emojis/1445363635835764757.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_plead:",
+      "url": "https://cdn.discordapp.com/emojis/1447320132279079002.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_haii:",
+      "url": "https://cdn.discordapp.com/emojis/1453815333726064660.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":blanky_Tuck:",
+      "url": "https://cdn.discordapp.com/emojis/1459628525995692123.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_omg_crying:",
+      "url": "https://cdn.discordapp.com/emojis/1462361271352692848.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lurk:",
+      "url": "https://cdn.discordapp.com/emojis/1466816610923843594.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":blinking_innocent:",
+      "url": "https://cdn.discordapp.com/emojis/1466816694516187146.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":ToothlessEyes:",
+      "url": "https://cdn.discordapp.com/emojis/1469433208666984543.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_pls_blush:",
+      "url": "https://cdn.discordapp.com/emojis/1483542643928469674.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_flappy_blush_excited:",
+      "url": "https://cdn.discordapp.com/emojis/1484502025956884540.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_shy_embarrassed:",
+      "url": "https://cdn.discordapp.com/emojis/1484503101036691476.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_cry:",
+      "url": "https://cdn.discordapp.com/emojis/1484507596294459462.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_drool_yummy:",
+      "url": "https://cdn.discordapp.com/emojis/1484520060369244413.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_blush_happy:",
+      "url": "https://cdn.discordapp.com/emojis/1484582184563114084.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_meepy:",
+      "url": "https://cdn.discordapp.com/emojis/1484585847641866364.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_smol_sit:",
+      "url": "https://cdn.discordapp.com/emojis/1484591807038881982.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_uwu:",
+      "url": "https://cdn.discordapp.com/emojis/1484592936955019486.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_woah:",
+      "url": "https://cdn.discordapp.com/emojis/1484598361633063104.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":open_maw:",
+      "url": "https://cdn.discordapp.com/emojis/1484599178066923670.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_weh:",
+      "url": "https://cdn.discordapp.com/emojis/1484601329346285728.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":lexi_headfull:",
+      "url": "https://cdn.discordapp.com/emojis/1484602316202971196.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":hold_lexi_plushie:",
+      "url": "https://cdn.discordapp.com/emojis/1484640877002358886.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": ":hearther:",
+      "url": "https://cdn.discordapp.com/emojis/1484969724029964389.webp?size=4096",
+      "is_sticker": false
+    },
+    {
+      "name": "Menhera Bed",
+      "url": "https://media.discordapp.net/stickers/1343991531102797895.webp?size=4096",
+      "is_sticker": true
+    },
+    {
+      "name": "Tail Bite",
+      "url": "https://media.discordapp.net/stickers/1382799890618253312.webp?size=4096",
+      "is_sticker": true
+    },
+    {
+      "name": "SoCute",
+      "url": "https://media.discordapp.net/stickers/1385671813069279272.webp?size=4096",
+      "is_sticker": true
+    },
+    {
+      "name": "Nom Cookie",
+      "url": "https://media.discordapp.net/stickers/1385981508451565670.webp?size=4096",
+      "is_sticker": true
+    },
+    {
+      "name": "Cheers",
+      "url": "https://media.discordapp.net/stickers/1395720265907834970.webp?size=4096",
+      "is_sticker": true
+    }
+  ],
+  "name": "My stuff",
+  "codename": "GUID951216120386453574",
+  "icon": "https://cdn.discordapp.com/icons/951216120386453574/28334b2d3f2cc77c0c39cb0c7291d677"
+}

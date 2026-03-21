@@ -24,8 +24,27 @@
             "name": ":teehee:",
             "url": "https://cdn.discordapp.com/emojis/1452531192116281344.webp?size=32",
             "is_sticker": false
+        },
+        {
+            "name": ":nod:",
+            "url": "https://cdn.discordapp.com/emojis/1414617625975328800.gif?size=32",
+            "is_sticker": false
+        },
+        {
+            "name": ":deathbycum:",
+            "url": "https://cdn.discordapp.com/emojis/1418624621355466813.webp?size=32",
+            "is_sticker": false
+        },
+        {
+            "name": ":deathbypiss:",
+            "url": "https://cdn.discordapp.com/emojis/1418624751055671527.webp?size=32",
+            "is_sticker": false
+        },
+        {
+            "name": ":deathbyperiod:",
+            "url": "https://cdn.discordapp.com/emojis/1418624685788364851.webp?size=32",
+            "is_sticker": false
         }
-        
     ],
     "name": "Fucked Up Wom",
     "codename": "wom",
